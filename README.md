@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there I'm Michael Dobekidis (https://Netgfx.com), and I'm a senior software engineer 👋
+
+
+🔭 I’m currently working on various cool project around (Web, Mobile, AR/VR, 3D, Games)
+
+
+![Netgfx's github stats](https://github-readme-stats.vercel.app/api?username=netgfx&show_icons=true&theme=dark)
+
 
 <!--
 **netgfx/netgfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
