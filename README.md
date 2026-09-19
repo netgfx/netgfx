@@ -1,7 +1,7 @@
-### Hi there I'm Michael Dobekidis (https://Netgfx.com), and I'm a senior software engineer 👋
+### Hi there I'm Michael Dobekidis (https://Netgfx.com), and I'm a senior software engineer / Team Lead👋
 
 
-🔭 I’m currently working on various cool project around (Web, Mobile, AR/VR, 3D, Games)
+🔭 I’m currently working on various cool projects around (Web, Mobile, AR/VR, 3D, Games)
 
 
 ![Netgfx's github stats](https://github-readme-stats.vercel.app/api?username=netgfx&show_icons=true&theme=dark)
